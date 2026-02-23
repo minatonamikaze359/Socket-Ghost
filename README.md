@@ -20,7 +20,7 @@ Open Termux and copy-paste these commands one by one:
 pkg update && pkg upgrade -y
 
 # Clone your new masterpiece repo
-git clone [https://github.com/YOUR_USERNAME/Socket-Ghost.git](https://github.com/YOUR_USERNAME/Socket-Ghost.git)
+git clone [https://github.com/minatonamikaze359/Socket-Ghost.git](https://github.com/YOUR_USERNAME/Socket-Ghost.git)
 cd Socket-Ghost
 
 # Run the auto-installer
